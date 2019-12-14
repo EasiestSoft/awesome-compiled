@@ -28,8 +28,8 @@ Libraries, softwares, tools
   - [primitive - Reproducing images with geometric primitives - Go](https://github.com/fogleman/primitive)
   - [svgo - Library for SVG generation - Go](https://github.com/ajstarks/svgo)
   - [bild - Collection of parallel image processing algorithms - Go](https://github.com/anthonynsimon/bild)
-  - [imaging - Simple image processing package for Go - Go](https://github.com/disintegration/imaging)
-  - [imgproxy - Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
+  - [imaging - Simple image processing package - Go](https://github.com/disintegration/imaging)
+  - [imgproxy - Fast and secure standalone server for resizing and converting remote images - Go](https://github.com/imgproxy/imgproxy)
   - [silicon - Create beautiful image of your source code - Rust](https://github.com/Aloxaf/silicon)
   - [svgbob - Convert your ascii diagram scribbles into happy little SVG - Rust](https://github.com/ivanceras/svgbob)
   - [imageman - Image manipulation library - Nim](https://github.com/SolitudeSF/imageman)  
@@ -98,6 +98,8 @@ Libraries, softwares, tools
   - [broot - New way to see and navigate directory trees - Rust](https://github.com/Canop/broot)
   - [bat - cat(1) clone with wings - Rust](https://github.com/sharkdp/bat)
   - [exa - modern version of ‘ls’ (No Windows support) - Rust](https://github.com/ogham/exa)
+  - [CopyQ - advanced clipboard manager with editing and scripting features - CPP](https://github.com/hluk/CopyQ)
+  - [Scoop - ]
 
 - FFMpeg related (May not compiled)
   - [FFmpeg - Collection of libraries and tools to process multimedia - C](https://ffmpeg.org)
