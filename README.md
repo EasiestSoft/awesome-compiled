@@ -32,9 +32,9 @@ Libraries, softwares, tools
   - [imgproxy - Fast and secure standalone server for resizing and converting remote images - Go](https://github.com/imgproxy/imgproxy)
   - [silicon - Create beautiful image of your source code - Rust](https://github.com/Aloxaf/silicon)
   - [svgbob - Convert your ascii diagram scribbles into happy little SVG - Rust](https://github.com/ivanceras/svgbob)
-  - [imageman - Image manipulation library - Nim](https://github.com/SolitudeSF/imageman)  
+  - [imageman - Image manipulation library - Nim](https://github.com/SolitudeSF/imageman)
   - [Flippy - simple 2d image and drawing library - Nim](https://github.com/treeform/flippy)
-  - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations - Nim](https://github.com/bluenote10/NimSvg)  
+  - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations - Nim](https://github.com/bluenote10/NimSvg)
   - [gifsicle - Create, manipulate, and optimize GIF images and animations - C](https://github.com/kohler/gifsicle)
 
 - Image compressor
@@ -65,14 +65,15 @@ Libraries, softwares, tools
 
 - Text processing, Markdown tool
   - [pulldown-cmark - pull parser for CommonMark - Rust](https://github.com/raphlinus/pulldown-cmark)
-  - [nim-markdown - Beautiful Markdown Parser - Nim](https://github.com/soasme/nim-markdown)  
+  - [nim-markdown - Beautiful Markdown Parser - Nim](https://github.com/soasme/nim-markdown)
   - [cmark - CommonMark parsing and rendering library and program - C](https://github.com/commonmark/cmark)
   - [mdcat - cat for markdown - Rust](https://github.com/lunaryorn/mdcat)
   - [minify - Minifiers for web formats - Go](https://github.com/tdewolff/minify)
+  - [xidel - command line tool to download and extract data from HTML/XML pages or JSON-API - Pascal](https://github.com/benibela/xidel)
   - [pup - Parsing HTML at the command line - Go](https://github.com/ericchiang/pup)
   - [xsv - Fast CSV command line toolkit - Rust](https://github.com/BurntSushi/xsv)
   - [jq - Command-line JSON processor - C](https://github.com/stedolan/jq)
- 
+
 - Static site / Book generator
   - [mdBook - Create book from markdown files - Rust](https://github.com/rust-lang/mdBook)
   - [hugo - The world’s fastest framework for building websites - Go](https://github.com/gohugoio/hugo)
@@ -101,8 +102,9 @@ Libraries, softwares, tools
   - [CopyQ - advanced clipboard manager with editing and scripting features - CPP](https://github.com/hluk/CopyQ)
   - [Scoop - ]
 
-- FFMpeg related (May not compiled)
+- Video/Audio related (May not compiled)
   - [FFmpeg - Collection of libraries and tools to process multimedia - C](https://ffmpeg.org)
+  - [SoundGen - Generate sounds and music from (descriptions of) sound waves](https://github.com/bharadwaj-raju/SoundGen)
   - [gifenc - Turn your videos into palette-mapped gif - Shell](https://github.com/thevangelist/FFMPEG-gif-script-for-bash)
   - [silk-v3-decoder - Decode silk v3 audio files - Shell](https://github.com/kn007/silk-v3-decoder)
   - [ffmpeg-libav-tutorial - Learn how media works from basic to transmuxing, transcoding and more - C](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
