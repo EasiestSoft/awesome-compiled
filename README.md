@@ -110,6 +110,11 @@ Libraries, softwares, tools
   - [ffmpeg-libav-tutorial - Learn how media works from basic to transmuxing, transcoding and more - C](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
   - [gifify - Turns movies into gif(May be bugs) - Shell](https://github.com/jclem/gifify)
 
+- YouTube Downloader
+  - [rylio/ytdl - go](https://github.com/rylio/ytdl)
+  - [kkdai/youtube - (Parse Info Error in Windows) - go ](https://github.com/kkdai/youtube)
+
+
 - Awesome lists of Compiled languages
   - [Curated Packages - Nim](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
   - [awesome-rust - Rust](https://github.com/rust-unofficial/awesome-rust)
