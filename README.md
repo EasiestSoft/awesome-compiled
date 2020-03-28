@@ -22,6 +22,7 @@ Libraries, softwares, tools
 -----------
 
 - Image processing
+  - [libvips - A fast image processing library with low memory needs - C](https://github.com/libvips/libvips)
   - [gifski - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format - Rust](https://github.com/ImageOptim/gifski)
   - [caire - Content aware image resize library - Go](https://github.com/esimov/caire)
   - [triangle - Convert images to computer generated art using delaunay triangulation - Go](https://github.com/esimov/triangle)
