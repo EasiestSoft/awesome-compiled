@@ -39,6 +39,11 @@ Libraries, softwares, tools
   - [NimSvg - Nim-based DSL allowing to generate SVG files and GIF animations - Nim](https://github.com/bluenote10/NimSvg)
   - [gifsicle - Create, manipulate, and optimize GIF images and animations - C](https://github.com/kohler/gifsicle)
 
+- Image watermark
+  - [Eun/watermark - CLI - go](https://github.com/Eun/watermark)
+  - [joway/imagic - compress, resize, watermark](https://github.com/joway/imagic)
+  - [chrisww/watermark -  CLI, BUG: can not keep input image resolution - go](https://github.com/chrisww/watermark)
+
 - Image compressor
   - [pngquant - Lossy PNG compressor — pngquant command based on libimagequant library - C](https://github.com/kornelski/pngquant)
   - [Oxipng - Multithreaded PNG optimizer - Rust](https://github.com/shssoichiro/oxipng)
