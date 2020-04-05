@@ -21,6 +21,14 @@ Compiled programming languages
 Libraries, softwares, tools
 -----------
 
+- Downloader
+  - [annie - Fast, simple and clean video downloader - Go](https://github.com/iawia002/annie)
+  - [rylio/ytdl - go](https://github.com/rylio/ytdl)
+  - [kkdai/youtube - Bug: Parse Info Error in Windows - go ](https://github.com/kkdai/youtube)
+  -
+  - [monolith - CLI tool for saving complete web pages as a single HTML file - Rust](https://github.com/Y2Z/monolith)
+  - [pget - File download client (last update 2017) - Go](https://github.com/Code-Hex/pget)
+
 - Image processing
   - [libvips - image processing library with low memory needs - C](https://github.com/libvips/libvips)
   - [foresterre/sic - image processing and conversion from the terminal - Rust](https://github.com/foresterre/sic)
@@ -94,11 +102,6 @@ Libraries, softwares, tools
 - Website creator / CMS
   - [lemmy - Building a federated alternative to reddit - Rust](https://github.com/dessalines/lemmy)
 
-- Downloader
-  - [monolith - CLI tool for saving complete web pages as a single HTML file - Rust](https://github.com/Y2Z/monolith)
-  - [annie - Fast, simple and clean video downloader - Go](https://github.com/iawia002/annie)
-  - [pget - File download client (last update 2017) - Go](https://github.com/Code-Hex/pget)
-
 - HTTP
   - [miniserve - For when you really just want to serve some files over HTTP right now - Rust](https://github.com/svenstaro/miniserve)
   - [wuzz - Interactive cli tool for HTTP inspection - Go](https://github.com/asciimoo/wuzz)
@@ -121,10 +124,6 @@ Libraries, softwares, tools
   - [silk-v3-decoder - Decode silk v3 audio files - Shell](https://github.com/kn007/silk-v3-decoder)
   - [ffmpeg-libav-tutorial - Learn how media works from basic to transmuxing, transcoding and more - C](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
   - [gifify - Turns movies into gif(May be bugs) - Shell](https://github.com/jclem/gifify)
-
-- YouTube Downloader
-  - [rylio/ytdl - go](https://github.com/rylio/ytdl)
-  - [kkdai/youtube - (Parse Info Error in Windows) - go ](https://github.com/kkdai/youtube)
 
 
 - Awesome lists of Compiled languages
