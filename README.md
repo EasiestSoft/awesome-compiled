@@ -24,6 +24,11 @@ Libraries, softwares, tools
 - Image processing
   - [libvips - image processing library with low memory needs - C](https://github.com/libvips/libvips)
   - [foresterre/sic - image processing and conversion from the terminal - Rust](https://github.com/foresterre/sic)
+  - [imagene - resize, text image - Rust](https://github.com/simvux/imagene)
+  - [blendit - Blend images with text and generate amazing looking posters - Rust](https://github.com/alexvilanovab/blendit)
+  - [lcs-image-diff - Image diff library and tool with LCS algorithm - Rust](https://github.com/bokuweb/lcs-image-diff-rs)
+  - [img_dup - finding duplicate and similar images in directory trees - Rust](https://github.com/abonander/img-dup)
+  - [binimage - Create an image from the binary data of a file - Rust](https://github.com/danthedaniel/binimage)
   - [gifski - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format - Rust](https://github.com/ImageOptim/gifski)
   - [caire - Content aware image resize library - Go](https://github.com/esimov/caire)
   - [triangle - Convert images to computer generated art using delaunay triangulation - Go](https://github.com/esimov/triangle)
@@ -41,8 +46,8 @@ Libraries, softwares, tools
 
 - Image watermark
   - [Eun/watermark - CLI - go](https://github.com/Eun/watermark)
-  - [joway/imagic - compress, resize, watermark](https://github.com/joway/imagic)
-  - [chrisww/watermark -  CLI, BUG: can not keep input image resolution - go](https://github.com/chrisww/watermark)
+  - [joway/imagic - BUG: Can not build on Windows - go](https://github.com/joway/imagic)
+  - [chrisww/watermark -  BUG: can not keep input image resolution - go](https://github.com/chrisww/watermark)
 
 - Image compressor
   - [pngquant - Lossy PNG compressor — pngquant command based on libimagequant library - C](https://github.com/kornelski/pngquant)
