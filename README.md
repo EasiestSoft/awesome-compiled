@@ -22,11 +22,12 @@ Libraries, softwares, tools
 -----------
 
 - Downloader
-  - [annie - Fast, simple and clean video downloader - Go](https://github.com/iawia002/annie)
-  - [rylio/ytdl - go](https://github.com/rylio/ytdl)
-  - [gotube - simple command line tool for downloading YouTube videos - go](https://github.com/Marethyu12/gotube)
-  - [go-get-youtube - A tiny Go library + client for downloading Youtube videos - go](https://github.com/knadh/go-get-youtube)
-  - [ch3ck/youtube-dl - Simple youtube downloader - go](https://github.com/ch3ck/youtube-dl)
+  - [Youtube-dl - require Python 2.6, 2.7, or 3.2+ and msvcr100.dll](https://github.com/ytdl-org/youtube-dl)
+  - [annie - Fast, Bug - Go](https://github.com/iawia002/annie)
+  - [rylio/ytdl - Bug - go](https://github.com/rylio/ytdl)
+  - [gotube - not tested - go](https://github.com/Marethyu12/gotube)
+  - [go-get-youtube - not tested - go](https://github.com/knadh/go-get-youtube)
+  - [ch3ck/youtube-dl - not tested - go](https://github.com/ch3ck/youtube-dl)
   - [kkdai/youtube - Bug: Parse Info Error in Windows - go ](https://github.com/kkdai/youtube)
   -
   - [monolith - CLI tool for saving complete web pages as a single HTML file - Rust](https://github.com/Y2Z/monolith)
