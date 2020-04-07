@@ -35,7 +35,7 @@ Libraries, softwares, tools
 
 - Image processing
   - [libvips - image processing library with low memory needs - C](https://github.com/libvips/libvips)
-  - [foresterre/sic - image processing and conversion from the terminal - Rust](https://github.com/foresterre/sic)
+  - [sic - image processing and conversion from the terminal - Rust](https://github.com/foresterre/sic)
   - [imagene - resize, text image - Rust](https://github.com/simvux/imagene)
   - [blendit - Blend images with text and generate amazing looking posters - Rust](https://github.com/alexvilanovab/blendit)
   - [lcs-image-diff - Image diff library and tool with LCS algorithm - Rust](https://github.com/bokuweb/lcs-image-diff-rs)
@@ -58,12 +58,15 @@ Libraries, softwares, tools
 
 - Image watermark
   - [Eun/watermark - watermark an image with a specific text - go](https://github.com/Eun/watermark)
-  - [chrisww/watermark -  add text watermark on images - go](https://github.com/chrisww/watermark)
+  - [chrisww/watermark -  text watermark, resize images - go](https://github.com/chrisww/watermark)
   - [joway/imagic - BUG: Can not build on Windows - go](https://github.com/joway/imagic)
 
-- Image compressor
+- Image compressor/optimizer
   - [pngquant - Lossy PNG compressor — pngquant command based on libimagequant library - C](https://github.com/kornelski/pngquant)
   - [Oxipng - Multithreaded PNG optimizer - Rust](https://github.com/shssoichiro/oxipng)
+  - [Pngcrush - optimizer for PNG - C](https://pmt.sourceforge.io/pngcrush/)
+  - [advpng - recompress png files to get the smallest possible size](http://www.advancemame.it/doc-advpng)
+  - [OptiPNG - Advanced PNG Optimizer - C](http://optipng.sourceforge.net/)
 
 - Backup / Sync
   - [rclone - rsync for cloud storage - Rust](https://github.com/rclone/rclone)
