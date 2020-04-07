@@ -24,6 +24,9 @@ Libraries, softwares, tools
 - Downloader
   - [annie - Fast, simple and clean video downloader - Go](https://github.com/iawia002/annie)
   - [rylio/ytdl - go](https://github.com/rylio/ytdl)
+  - [gotube - simple command line tool for downloading YouTube videos - go](https://github.com/Marethyu12/gotube)
+  - [go-get-youtube - A tiny Go library + client for downloading Youtube videos - go](https://github.com/knadh/go-get-youtube)
+  - [ch3ck/youtube-dl - Simple youtube downloader - go](https://github.com/ch3ck/youtube-dl)
   - [kkdai/youtube - Bug: Parse Info Error in Windows - go ](https://github.com/kkdai/youtube)
   -
   - [monolith - CLI tool for saving complete web pages as a single HTML file - Rust](https://github.com/Y2Z/monolith)
@@ -53,8 +56,8 @@ Libraries, softwares, tools
   - [gifsicle - Create, manipulate, and optimize GIF images and animations - C](https://github.com/kohler/gifsicle)
 
 - Image watermark
-  - [chrisww/watermark -  add text watermark on images - go](https://github.com/chrisww/watermark)
   - [Eun/watermark - watermark an image with a specific text - go](https://github.com/Eun/watermark)
+  - [chrisww/watermark -  add text watermark on images - go](https://github.com/chrisww/watermark)
   - [joway/imagic - BUG: Can not build on Windows - go](https://github.com/joway/imagic)
 
 - Image compressor
@@ -118,6 +121,7 @@ Libraries, softwares, tools
   - [Scoop - ]
 
 - Video/Audio related (May not compiled)
+  - [SponSkrub - Strip advertisements from downloaded YouTube videos - D](https://github.com/faissaloo/SponSkrub)
   - [FFmpeg - Collection of libraries and tools to process multimedia - C](https://ffmpeg.org)
   - [SoundGen - Generate sounds and music from (descriptions of) sound waves](https://github.com/bharadwaj-raju/SoundGen)
   - [gifenc - Turn your videos into palette-mapped gif - Shell](https://github.com/thevangelist/FFMPEG-gif-script-for-bash)
