@@ -34,6 +34,7 @@ Libraries, softwares, tools
   - [pget - File download client (last update 2017) - Go](https://github.com/Code-Hex/pget)
 
 - Image processing
+  - [ImageMagick - Create, edit, compose, or convert bitmap images](https://imagemagick.org)
   - [libvips - image processing library with low memory needs - C](https://github.com/libvips/libvips)
   - [sic - image processing and conversion from the terminal - Rust](https://github.com/foresterre/sic)
   - [imagene - resize, text image - Rust](https://github.com/simvux/imagene)
