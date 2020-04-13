@@ -121,8 +121,9 @@ Libraries, softwares, tools
   - [curlie - The power of curl, the ease of use of httpie - Go](https://github.com/rs/curlie)
 
 - Tools for programmers
+  - [just - Command runner - Rust](https://github.com/casey/just)
+  - [Tokei - Count your Code - Rust](https://github.com/XAMPPRocky/tokei)
   - [jump - Helps you navigate faster by learning your habits - Go](https://github.com/gsamokovarov/jump)
-  - [just - Command runner Rust](https://github.com/casey/just)
   - [task - Task runner / simpler Make alternative - Go](https://github.com/go-task/task)
   - [broot - New way to see and navigate directory trees - Rust](https://github.com/Canop/broot)
   - [bat - cat(1) clone with wings - Rust](https://github.com/sharkdp/bat)
