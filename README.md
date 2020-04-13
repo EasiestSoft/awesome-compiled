@@ -22,8 +22,8 @@ Libraries, softwares, tools
 -----------
 
 - Downloader
-  - [Youtube-dl - require Python 2.6, 2.7, or 3.2+ and msvcr100.dll](https://github.com/ytdl-org/youtube-dl)
-  - [annie - Fast, Bug - Go](https://github.com/iawia002/annie)
+  - [Youtube-dl - require Python 2.6, 2.7, or 3.2+, require msvcr100.dll on Windows](https://github.com/ytdl-org/youtube-dl) (Not compiled)
+  - [annie - Bug - Go](https://github.com/iawia002/annie)
   - [rylio/ytdl - Bug - go](https://github.com/rylio/ytdl)
   - [gotube - not tested - go](https://github.com/Marethyu12/gotube)
   - [go-get-youtube - not tested - go](https://github.com/knadh/go-get-youtube)
@@ -32,6 +32,9 @@ Libraries, softwares, tools
   -
   - [monolith - CLI tool for saving complete web pages as a single HTML file - Rust](https://github.com/Y2Z/monolith)
   - [pget - File download client (last update 2017) - Go](https://github.com/Code-Hex/pget)
+
+- Image Animation
+  - [ScreenToGif - C#](https://github.com/NickeManarin/ScreenToGif)
 
 - Image processing
   - [ImageMagick - Create, edit, compose, or convert bitmap images](https://imagemagick.org)
@@ -128,8 +131,10 @@ Libraries, softwares, tools
   - [Scoop - ]
 
 - Video/Audio related (May not compiled)
+  - [FFmpeg official - Collection of libraries and tools to process multimedia - C](https://ffmpeg.org)
+  - [FFmpeg build - Win32 shared - C](https://ffmpeg.zeranoe.com/builds/win32/shared/)
+  - [FFmpeg build - Win64 shared - C](https://ffmpeg.zeranoe.com/builds/win64/shared/)
   - [SponSkrub - Strip advertisements from downloaded YouTube videos - D](https://github.com/faissaloo/SponSkrub)
-  - [FFmpeg - Collection of libraries and tools to process multimedia - C](https://ffmpeg.org)
   - [SoundGen - Generate sounds and music from (descriptions of) sound waves](https://github.com/bharadwaj-raju/SoundGen)
   - [gifenc - Turn your videos into palette-mapped gif - Shell](https://github.com/thevangelist/FFMPEG-gif-script-for-bash)
   - [silk-v3-decoder - Decode silk v3 audio files - Shell](https://github.com/kn007/silk-v3-decoder)
